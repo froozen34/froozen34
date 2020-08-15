@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Todor Jivkov Jelqzkov!
 
 <!--
 **froozen34/froozen34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+Hello my name is Todor Jivkov Jelqzkov and I am from Bulgaria, Yambol city I do Onetap.com Java scripts I generally understand from C ++, C #, Java Script, VS Code
+
+### What do i do for fun?
+- обичам да правя cheats на игри
+- обичам да помагам на хора със програмирване
+- обичам да гледам много TV
