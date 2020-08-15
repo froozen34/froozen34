@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About Me
-Hello my name is Todor Jivkov Jelqzkov and I am from Bulgaria, Yambol city I do Onetap.com Java scripts I generally understand from C ++, C #, Java Script, VS Code
-
 ### What do i do for fun?
 - i love listening to Мusic a lot
 - i love helping people with programming
